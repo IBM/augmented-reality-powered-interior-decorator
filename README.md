@@ -245,9 +245,9 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 
 >Example: `https://mobilefoundation-xxxx-xxxxxx.xx-xx.mybluemix.net/mfp/api/adapters/CloudantJava/`.
 
- * Now click on `Send` button to run the `GET /` API. The API response should get shown in the `Response Body` as shown in snapshot below.
+ * Now click on `Send` button to run the GET `/mfp/api/adapters/CloudantJava/` API. The API response should get shown in the `Response Body` as shown in snapshot below.
 
- * The GET API on `/` should return a JSON object containing `_id`, `_rev`, `id`, `title`, `shortdesc`, `rating`, `price` & `img` from your Cloudant as shown below.
+ * The GET API on `/mfp/api/adapters/CloudantJava/` should return a JSON object containing `_id`, `_rev`, `id`, `title`, `shortdesc`, `rating`, `price` & `img` from your Cloudant as shown below.
 
     <img src="doc/source/images/TestMFPAdapter.png" alt="Test the newly added API in MFP Adapter for getting Cloud Object Storage Authorization token" width="800" border="10" />
 
@@ -270,7 +270,7 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 
 >NOTE: If Gradle Build fails please read the <b>`TROUBLESHOOTING.md`</b> file to solve commonly occuring issues.
 
-#### 3.2 Importing Google Poly Objects into Android Studio
+#### 4.2 Importing Google Poly Objects into Android Studio
 * Download the poly objects from the bellow URL's.
     1. Chair by Google: https://poly.google.com/view/13AL0KYItKD
     2. Table by Google: https://poly.google.com/view/8cnrwlAWqx7
