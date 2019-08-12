@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Furniture Store</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="take_me_in">Take Me IN</string>
+    <string name="button">Button</string>
+    <string name="open_augmented_playground">OPEN AUGMENTED PLAYGROUND</string>
+</resources>

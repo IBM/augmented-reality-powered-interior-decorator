@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ARActivity">
+
+    <fragment
+        android:id="@+id/arFragment"
+        android:name="com.google.ar.sceneform.ux.ArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="0dp"></fragment>
+
+    <Button
+        android:id="@+id/btnChair"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/chair"
+        android:text="Chair"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/btnCornerTable"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="82dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/corner_table"
+        android:text="Corner\n Table"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/btnTable"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/table"
+        android:text="Table"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/btnRedSofa"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="240dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/sofa"
+        android:text="Red Sofa"
+        android:textColor="@color/cardview_light_background" />
+
+    <Button
+        android:id="@+id/btnBlackSofa"
+        style="@android:style/Widget.Material.Light.Button.Borderless.Colored"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="325dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/black_couch"
+        android:text="Black Sofa"
+        android:textColor="@color/cardview_light_background" />
+
+</RelativeLayout>
