@@ -408,6 +408,8 @@ Registered app for platform: android
 
 # Troubleshooting
 
+Please see [troubleshooting guide](TROUBLESHOOTING.md) for solutions to some commonly occuring problems.
+
 * Click on the `Logcat` button at the bottom of the screen in Android Studio to see the console log outputs by the application as shown.
 
 <img src="doc/source/images/troubleshooting.png" alt="androidstudio" width="800" />
