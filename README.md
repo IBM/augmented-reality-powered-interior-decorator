@@ -31,11 +31,11 @@ Please follow the below to setup and run this code pattern.
 
 ### 1. Clone the repo
 
-Clone this [git repo](https://github.ibm.com/raravi86/furniture.git).
+Clone this [git repo](https://github.com/IBM/augmented-reality-powered-interior-decorator).
 Else, in a terminal, run:
 
 ```
-$ git clone https://github.ibm.com/raravi86/furniture.git
+$ git clone https://github.com/IBM/augmented-reality-powered-interior-decorator.git
 ```
 
 ### 2. Create Cloudant database and populate it with sample data
