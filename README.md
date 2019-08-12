@@ -268,8 +268,6 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 
 >NOTE: The Initial Gradle Build may take much longer time please be patient.
 
->NOTE: If Gradle Build fails please read the <b>`TROUBLESHOOTING.md`</b> file to solve commonly occuring issues.
-
 #### 4.2 Importing Google Poly Objects into Android Studio
 * Download the poly objects from the bellow URL's.
     1. Chair by Google: https://poly.google.com/view/13AL0KYItKD
