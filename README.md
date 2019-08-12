@@ -184,10 +184,10 @@ MyServer  https://mobilefoundation-xxxx-xxxxxx.xx-xx.mybluemix.net:443  [Default
 
 #### 3.3 Deploy the MFP Adapter and Test it
 ##### 3.3.1 Build and Deploy the MFP adapters
-* Go to the `CloudantJava` directory inside `FurnitureStore` directory.
+* Go to the `CloudantJava` directory.
 
 ```
-$ cd MobileFoundationAdapter/CloudantJava
+$ cd /CloudantJava
 ```
 * Add the `URL` along with the port number `:443` appended with `/mfpadmin`, `User` and `Password` in the `pom.xml` file which is present in `CloudantJava` directory as show bellow.
 
