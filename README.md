@@ -255,7 +255,7 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 
 ### 4. Setup Poly Objects in Android Studio
 #### 4.1 Google Sceneform Tools Setup
-* Open the directory `FurnitureStore` in Android Studio.
+* Open the directory `FurnitureStoreApp` in Android Studio.
 
 * In Android Studio goto `File > Preferences > Plugins` and click on `Browse Repositories` button.
 
