@@ -407,7 +407,6 @@ Registered app for platform: android
 >> To explore more on Argument Reality, refer to our argument reality related patterns at https://developer.ibm.com/patterns/category/virtual-reality/.
 
 # Troubleshooting
-Please see [troubleshooting guide](TROUBLESHOOTING.md) for solutions to some commonly occuring problems.
 
 * Click on the `Logcat` button at the bottom of the screen in Android Studio to see the console log outputs by the application as shown.
 
