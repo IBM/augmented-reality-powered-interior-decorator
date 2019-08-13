@@ -2,6 +2,8 @@
 
 Augmented Reality suits the furniture/interior business perfectly. It is also a fine tool for personalization of customer needs, especially when it comes to furniture/interior. Shoppers really want the ability to see how the items will look at their homes or offices. People want to see virtual interior design ideas in real time, and AR provides them with such ability.
 
+`IBM Mobile Foundation` provides a rich set of back end capabilities for building, managing and updating your next gen cognitive, engaging, secure and personalized mobile and web applications.
+
 In this code pattern, we develop an android mobile application on `IBM Mobile Foundation` with AR capabilities that gives users the ability to select and place the furniture in their desired places, in real time.
 
 <!--add an image in this path-->
