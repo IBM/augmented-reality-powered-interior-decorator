@@ -10,7 +10,7 @@ In this code pattern, we develop an android mobile application on `IBM Mobile Fo
 <!--Optionally, add flow steps based on the architecture diagram-->
 ## Flow
 
-1. User opens the mobile application.
+1. User launches the mobile application.
 2. Mobile application requests `IBM Mobile Foundation` for product details.
 3. `IBM Mobile Foundation` fetches the product details from `Cloudant`.
 4. Product details are displayed on the mobile application.
