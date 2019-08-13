@@ -2,9 +2,9 @@
 
 Augmented Reality suits the furniture/interior business perfectly. It is also a fine tool for personalization of customer needs, especially when it comes to furniture/interior. Shoppers really want the ability to see how the items will look at their homes or offices. People want to see virtual interior design ideas in real time, and AR provides them with such ability.
 
-`IBM Mobile Foundation` provides a rich set of back end capabilities for building, managing and updating your next gen cognitive, engaging, secure and personalized mobile and web applications.
+This code pattern will enable developers to build powerful Augmented Reality applications for Android devices, with the help of Google ARCore SDK and `IBM Mobile Foundation`. To make the interior decorator application more immersive to the user, we will make use of open source 3D poly objects. In order to store all the product information, we will use `IBM Cloudant database`, which is a fully managed JSON document database that offers independent serverless scaling of provisioned throughput capacity and storage. And to retrive the product information securely and display it dynamically in the mobile application, we make use of `IBM Mobile Foundation`, which provides a rich set of back end capabilities for building, managing and updating your next gen cognitive, engaging, secure and personalized mobile and web applications.
 
-In this code pattern, we develop an android mobile application on `IBM Mobile Foundation` with AR capabilities that gives users the ability to select and place the furniture in their desired places, in real time.
+In this code pattern, we will develop an android mobile application on `IBM Mobile Foundation` with AR capabilities that gives users the ability to select and place the furniture in their desired places, in real time.
 
 <!--add an image in this path-->
 ![](/doc/source/images/Architecture_furniture.png)
