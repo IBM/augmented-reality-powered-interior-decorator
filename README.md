@@ -8,7 +8,14 @@ In this code pattern, we develop an android mobile application on `IBM Mobile Fo
 ![](/doc/source/images/Architecture_furniture.png)
 
 <!--Optionally, add flow steps based on the architecture diagram-->
-<!--## Flow-->
+## Flow
+
+1. User opens the mobile application.
+2. Mobile application requests `IBM Mobile Foundation` for product details.
+3. `IBM Mobile Foundation` fetches the product details from `Cloudant`.
+4. Product details are displayed on the mobile application.
+5. Users can now view how the furniture would look in their space.
+
 ## Demo
 [![](https://img.youtube.com/vi/2qtWBiS-SD0/0.jpg)](https://youtu.be/2qtWBiS-SD0)
 
