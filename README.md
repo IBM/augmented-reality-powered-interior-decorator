@@ -10,7 +10,7 @@ In this code pattern, we develop an android mobile application on `IBM Mobile Fo
 <!--Optionally, add flow steps based on the architecture diagram-->
 <!--## Flow-->
 ## Demo
-[![](https://img.youtube.com/vi/2qtWBiS-SD0/1.jpg)](https://youtu.be/2qtWBiS-SD0)
+[![](https://img.youtube.com/vi/2qtWBiS-SD0/0.jpg)](https://youtu.be/2qtWBiS-SD0)
 
 ## Pre-requisites
 
