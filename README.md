@@ -7,7 +7,7 @@ This code pattern will enable developers to build powerful Augmented Reality app
 In this code pattern, we will develop an android mobile application on `IBM Mobile Foundation` with AR capabilities that gives users the ability to select and place the furniture in their desired places, in real time.
 
 <!--add an image in this path-->
-![](/doc/source/images/Architecture_furniture.png)
+![](/doc/source/images/Architecture.png)
 
 <!--Optionally, add flow steps based on the architecture diagram-->
 ## Flow
