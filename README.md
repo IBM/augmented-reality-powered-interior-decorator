@@ -405,7 +405,7 @@ Registered app for platform: android
 
 * Then the app makes api call to cloudant to fetch the product data and display it.
 
-<img src="doc/source/images/Screenshots/phone3.png" alt="androidstudio" width="300" />
+<img src="doc/source/images/Screenshots/furniture.png" alt="androidstudio" width="300" />
 
 * Finally you can click on `Open Augmented Playground` to launch the AR screen on which you can choose the product and click on the anchors to place the object.
 
