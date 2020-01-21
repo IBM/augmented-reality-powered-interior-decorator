@@ -282,23 +282,23 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 * Download the poly objects from the bellow URL's.
     1. Chair by Google: https://poly.google.com/view/13AL0KYItKD
     
-    > ["Chair"](https://poly.google.com/view/13AL0KYItKD) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
+    >> ["Chair"](https://poly.google.com/view/13AL0KYItKD) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     2. Table by Google: https://poly.google.com/view/8cnrwlAWqx7
     
-    > ["Table"](https://poly.google.com/view/8cnrwlAWqx7) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
+    >> ["Table"](https://poly.google.com/view/8cnrwlAWqx7) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     3. Sofa by Google: https://poly.google.com/view/bwd4gui4RZ4
     
-    > ["Sofa"](https://poly.google.com/view/bwd4gui4RZ4) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
+    >> ["Sofa"](https://poly.google.com/view/bwd4gui4RZ4) by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     4. Vintage Corner Table by Danny Bittman: https://poly.google.com/view/7IxmR5JQXyC
     
-    > ["Vintage Corner Table"](https://poly.google.com/view/7IxmR5JQXyC) by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
+    >> ["Vintage Corner Table"](https://poly.google.com/view/7IxmR5JQXyC) by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     5. Couch | Wde by Danny Bittman: https://poly.google.com/view/7Q_Ab2HLll1
     
-    > ["Couch"](https://poly.google.com/view/7Q_Ab2HLll1) by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
+    >> ["Couch"](https://poly.google.com/view/7Q_Ab2HLll1) by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
 
 1. Extract the `.zip` files.
 
