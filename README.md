@@ -282,23 +282,23 @@ After Installing postman type the `url` created in [step 3.2] and append it with
 * Download the poly objects from the bellow URL's.
     1. Chair by Google: https://poly.google.com/view/13AL0KYItKD
     
-    `"Chair" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under CC BY`
+    >> "Chair" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     2. Table by Google: https://poly.google.com/view/8cnrwlAWqx7
     
-    `"Table" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under CC BY`
+    >> "Table" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     3. Sofa by Google: https://poly.google.com/view/bwd4gui4RZ4
     
-    `"Sofa" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under CC BY`
+    >> "Sofa" by [poly by google](https://poly.google.com/user/4aEd8rQgKu2) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     4. Vintage Corner Table by Danny Bittman: https://poly.google.com/view/7IxmR5JQXyC
     
-    `"Vintage Corner Table" by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under CC BY`
+    >> "Vintage Corner Table" by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
     
     5. Couch | Wde by Danny Bittman: https://poly.google.com/view/7Q_Ab2HLll1
     
-    `"Couch" by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under CC BY`
+    >> "Couch" by [Danny Bittman](https://poly.google.com/user/axCOZrx3oD3) is licensed under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
 
 1. Extract the `.zip` files.
 
